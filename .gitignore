@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+
+# Planning artifacts (local only)
+PRD.md
+research/
+
+# Environment
+.env*.local
