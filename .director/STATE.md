@@ -8,8 +8,8 @@
 
 **Current goal:** The story is written, polished, and ready to publish
 **Current step:** Writing pipeline — Letters 1-9 plus frame narrative
-**Current task:** Write and edit Letters 7-9
-**Position:** Goal 1, Step 2, Task 4
+**Current task:** Write Noah's introduction and epilogue
+**Position:** Goal 1, Step 2, Task 5
 
 ## Progress
 
@@ -19,16 +19,19 @@
   - [x] Create Nando's canonical voice document
   - [x] Brainstorm easter eggs
   - [x] Map the 9-letter story arc
-- Step 2: Writing pipeline — in progress (3/6 tasks done)
+- Step 2: Writing pipeline — in progress (4/6 tasks done)
   - [x] Build the editorial agent team
   - [x] Write and edit Letters 1-3
   - [x] Write and edit Letters 4-6
-  - [ ] Write and edit Letters 7-9
+  - [x] Write and edit Letters 7-9
   - [ ] Write Noah's introduction and epilogue
   - [ ] Final consistency and quality pass
 
 ## Recent Activity
 
+- Wrote Letter 9: The Pattern (the twist, closing mirror, all 3 assigned easter eggs, story bible updated)
+- Wrote Letter 8: The Confession (Nando's emotional climax, the Code-breaking confession)
+- Wrote Letter 7: The Long Game (the ground shifts, the rendering edge, controlled fear)
 - Wrote Letter 6: Hidden in Plain Sight (GOD/DOG centerpiece, tender frustration, the breather)
 - Wrote Letter 5: The Bargain (Nando's first doubt, the irreversible vote, BIG clue #17)
 - Wrote Letter 4: The Psychedelic Awakening (danger enters, 7 easter eggs, the Time Trap)
