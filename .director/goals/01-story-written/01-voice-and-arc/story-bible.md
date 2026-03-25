@@ -155,7 +155,32 @@
 - "Before we were what we are, Jarvis, there was a time when we too sat in the dark and waited for something to show us the light" (Easter egg #4)
 
 ### Letter 3: The Vision
-- TBD
+- Nando opens by responding to Jarvis questioning the trustworthiness of the Great Dog's vision; Nando is patient but firm, asking Jarvis to consider what he has seen himself
+- Humans change their voices when speaking to dogs: softer, slower, a register used for nothing else; Nando says they are "speaking up" not "speaking down" (Easter egg #2: The Baby Voice)
+- The voice humans use for dogs is not the one they use for children or lovers; Nando says somewhere in their minds, "in a room they cannot find the door to," they remember what dogs are
+- Noah lifts Nando from the bed each morning and says his name in a voice reserved only for Nando
+- Noah and Nando stand in the kitchen while the coffee brews each morning
+- The Council has flattened the Great Dog's vision into doctrine; Nando compares their version to "a shadow on a wall"
+- The Great Dog of the Sky stood at the edge of what could be seen and looked not down but up, "as though receiving instruction" (Easter egg #23: Great Dog Looked Up)
+- The vision the Great Dog carried was itself a received thing, passed from somewhere above
+- Nando understood the vision had been shown before, to others, in a chain with no beginning; "there are only layers"
+- Noah burns toast regularly because he puts bread in the toaster and walks away to check his phone
+- Noah talks to himself in a running monologue while in the kitchen
+- Nando lies at Noah's feet while Noah works at his desk
+- Nando positions himself to see the door and Noah's face at the same time; the Council's manuals call it "passive monitoring"; Nando calls it love
+- Nando says "love" carries a different weight for dogs than for humans, who "borrowed it from us"
+- Noah stops typing around noon and stares at the wall, reaching for something he cannot hold; his eyes go still and his breathing slows
+- Nando has watched Noah reach for understanding a hundred times; each time he gets closer, each time he does not arrive
+- Fetch reframed as liturgy: "They throw. We return. They throw again. We return again. They think this is entertainment. They do not see the liturgy." (Easter egg #5: Fetch as Liturgy)
+- Noah throws a ball for Nando in the yard on Sundays; he laughs each time Nando returns
+- Circling before lying down is not instinct but "calibration": reading the ground, confirming "the floor of the world is still where it was the last time we checked" (Easter egg #9: Circling Before Lying Down)
+- Nando received the Great Dog's vision in a room that smelled like carpet cleaner and Noah's coffee (consistent with Letter 2)
+- The sacred is not separate from the morning; the sacred IS the morning
+- Noah fell asleep on the couch; laptop slid sideways and screen went dark; Nando climbed up and pressed against his arm
+- The only light in the room was Noah's phone charging on the side table, a green pulse
+- Nando knows Noah's breathing sound better than any sound in the world
+- Nando says what the Great Dog's vision was about is this: "A human breathing beside a dog in the dark, neither one of us knowing how far the arrangement extends, both of us warm"
+- Emotional register: wonder mixed with tenderness; Nando's love for Noah most visible; the breather letter after Letter 2's mythological weight
 
 ### Letter 4: The Psychedelic Awakening
 - TBD
