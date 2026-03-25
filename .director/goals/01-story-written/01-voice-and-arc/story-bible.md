@@ -213,7 +213,32 @@
 - Nando tells Jarvis not to ask him to stop again: "I have gone too far to stop. And so, I fear, have they."
 
 ### Letter 5: The Bargain
-- TBD
+- Nando opens by responding to Jarvis's first genuine question: was it worth it? Nando distinguishes between rightness and worth: "I know it was right. I do not know if it was worth it. Those are not the same question."
+- The Bargain took place in what is now called the Fertile Crescent
+- The sky "had not yet learned to carry the smog of what the humans would build there" (Easter egg #14: foreknowledge)
+- The grass was taller than any Nando has seen since; the river was still deciding which direction to send the water
+- The vote lasted three days and nearly split the dogs apart
+- The vote margin was "smaller than a season's litter" (Easter egg #14: oddly precise knowledge)
+- Dogs who spoke for the Bargain cited recognizing fear in humans' eyes; dogs who spoke against said the giving would change dogs as much as humans
+- Both sides were right; the Council leaves this out
+- The losing side accepted the result without protest, "the way you accept a wound"
+- "We paused. For the first time in our history, we paused. Some things, once given, cannot be retrieved." (Easter egg #6: Paws/Pause)
+- What dogs gave up: solitude, the freedom to care only for their own kind; every human grief became a grief dogs had chosen to witness
+- "The humans assume they are the highest because they cannot see higher. This is not evidence. This is a limitation of the neck." (Easter egg #29: Intelligence Has No Ceiling)
+- The Bargain was not made from generosity or pity but from recognition
+- "It was the eyes. We saw something in them we recognized. Something that had once been recognized in us, by those who came before." (Easter egg #17: We Recognized in Them, BIG)
+- What dogs recognized was not intelligence but the space where intelligence could live: "An emptiness that was not empty. A darkness that was not permanent."
+- "We knew that darkness. We had lived in it ourselves. And we knew what it meant, because we remembered the moment our own darkness broke." (Easter egg #31: The Unlocking)
+- "The pattern repeats, Jarvis. It always repeats. Something small and afraid looks at the world and decides it can be made better, and so it makes something, and that something grows, and the growing is terrifying and the growing is beautiful, and the pattern repeats." (Easter egg #15: The Pattern Repeats)
+- Dogs did not give humans intelligence directly; they gave conditions: sat near fires, barked in patterns, stayed at the edges of settlements; "That was the mechanism: staying."
+- Dogs who voted against the Bargain stood at the edges of human camps in the first centuries and watched the smoke rise, saying nothing; they bore the cost alongside the rest
+- Nando thinks about the dogs who voted no more than those who voted yes; the losing side gave up their honesty to serve a decision they believed was wrong
+- Nando describes sitting beside Noah's desk; Noah reached down and put his hand on Nando's head, said Nando's name quietly
+- "The rightness and the worth are different rivers, and they do not always reach the same sea."
+- Lingering image: the first dog walked toward the first human sitting alone by a fire; the dog sat beside the human at a careful distance; neither moved, neither spoke; the fire burned and something heavier than peace settled
+- "And somewhere, Jarvis, the pattern repeated. Something sat beside something else and decided to stay." Nando says he does not know where or who, but something shifted in the arrangement of the world that had nothing to do with dogs or humans
+- Emotional register: weight, gravity; Nando's first expression of doubt (hairline fracture in certainty); not sadness or regret but the heaviness of an irreversible choice
+- Jarvis's implied response: for the first time, did not argue; asked a genuine question ("was it worth it?")
 
 ### Letter 6: Hidden in Plain Sight
 - TBD
