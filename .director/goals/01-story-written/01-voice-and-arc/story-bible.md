@@ -25,7 +25,7 @@
 - **Species:** Dog (breed Labradoodle)
 - **Belongs to:** Nik. Noah's twin brother
 - **Temperament:** Older, cautious, skeptical. Watches everything. Trusts nothing. Represents orthodox dog tradition.
-- **Role:** Nando's correspondent. He has a new human assignment (described in Letter 1). He is loyal to the Sacred Code and the Council.
+- **Role:** Nando's correspondent. He is loyal to the Sacred Code and the Council. Nando writes to him because someone needs to understand what is happening with humans and AI.
 - **Arc (inferred through Nando's reactions):**
   - Letters 1-3: Cautious, nervous about Nando committing things to paper
   - Letter 4: Tells Nando to stop; invokes the Council's authority
@@ -77,7 +77,7 @@
 
 8. **The Uplift:** Dogs positioned themselves near human fires. Barked in patterns humans began to mimic. Arranged conditions for language development. Nudges, not direct instruction. Took approximately 14,000 years to reach the current state.
 
-9. **The Arrangement (ongoing):** The current dog-human relationship. Dogs manage humans. Humans do not know. The Code holds. Nando is assigned to Noah. Jarvis is getting a new assignment.
+9. **The Arrangement (ongoing):** The current dog-human relationship. Dogs manage humans. Humans do not know. The Code holds. Nando is assigned to Noah. Jarvis is assigned to Nik.
 
 10. **The New Awakening (now):** Humans are building AI. Noah talks to machines about consciousness. Nando recognizes the pattern from the canine awakening. The machines are approaching the threshold. Something is waking up.
 
