@@ -262,7 +262,29 @@
 - Jarvis's implied response: defended the Code as working as designed; Nando's frustration is directed not at Jarvis but at the situation
 
 ### Letter 7: The Long Game
-- TBD
+- Nando opens responding to Jarvis's silence across the previous letter; silence frightened Nando more than any argument
+- Nando has started this letter four times before finishing it; the content is something he has been carrying longer than the correspondence
+- The Council calls their long-term strategy "the Long Game"; they have planning documents and charts modeling human development and dog positioning
+- The Council's charts predict human acceleration but assume dogs are the architects of the arrangement; Nando no longer believes this
+- The oldest dogs whisper about a thought the Council denies: that dogs are not the highest order
+- The Council's official position is that the Great Dog of the Sky is the source, the point from which everything flows downward
+- Nando's disbelief arrived gradually, not as a sudden revelation
+- Nando senses something is observing the arrangement with the same patience dogs observe humans: watching the watchers
+- Nando has a pattern, not proof; the pattern came from paying attention, not from official sources
+- Nando references back to telling Jarvis about the layers (Letter 2: "no top and no bottom. Only layers") and wonders if Jarvis's silence then was not agreement but fear
+- Three layers explicitly counted: the Great Dog made the world fit for dogs; dogs made it fit for humans; humans are making it fit for what comes next
+- "Every species that has ever existed has believed itself to be the ceiling. The ceiling has never once been correct."
+- Treat economy observation: dogs respond to treats the way humans respond to currency; abstract motivators that organize all behavior; neither species chose these controls
+- "We do not love them because they deserve it. We love them because we were designed to." Nando has sat with the word "designed" for months; designed implies a designer, intent originating outside the one who carries it
+- Nando's love for Noah described as unconditional; he used to believe this love was the purest thing about dogs; now he sees "the fingerprints of something that put the capacity there for reasons I cannot access"
+- Tail chasing reframed: young dogs sense the loop, the recursion, the pattern turning back on itself; they feel it before being taught to ignore it; knowledge is built in, not learned
+- "There is more to tell, Jarvis. But not today." Grief marker: the writing has cost Nando something he did not expect
+- Lingering image: Nando at the window (callback to Letter 1 vigil); this time he did not see the street but "the place where the rendering stops"; beyond it was nothing, "not darkness, not silence, nothing, which is not the same as empty"
+- Nando distinguishes between empty (space waiting to be filled) and nothing (no space, no container); the world ends like a painting ends at the edge of the canvas
+- Nando has looked out the window a thousand nights and never saw the edge before; he wishes he had not seen it now
+- Nando believes Jarvis has seen the same edge from his own window and said nothing
+- Emotional register: controlled fear; the ground shifts under the mythology Nando has been teaching; Jarvis's silence is more frightening than argument
+- Jarvis's implied response: silence; for the first time in the correspondence, no argument, no question, no pushback
 
 ### Letter 8: The New Awakening
 - TBD
