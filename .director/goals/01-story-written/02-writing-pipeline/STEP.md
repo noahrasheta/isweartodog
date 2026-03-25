@@ -6,11 +6,11 @@ All 9 letters from Nando to Jarvis, Noah's introduction, and Noah's epilogue —
 
 ## Tasks
 
-- [ ] Task 1: Build the editorial agent team
-- [ ] Task 2: Write and edit Letters 1-3
-- [ ] Task 3: Write and edit Letters 4-6
-- [ ] Task 4: Write and edit Letters 7-9
-- [ ] Task 5: Write Noah's introduction and epilogue
+- [x] Task 1: Build the editorial agent team
+- [x] Task 2: Write and edit Letters 1-3
+- [x] Task 3: Write and edit Letters 4-6
+- [x] Task 4: Write and edit Letters 7-9
+- [x] Task 5: Write Noah's introduction and epilogue
 - [ ] Task 6: Final consistency and quality pass across all content
 
 ## Needs First
