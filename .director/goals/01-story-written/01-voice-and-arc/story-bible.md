@@ -133,7 +133,26 @@
 - The opening line ("Your concern for the Code is noted and, as always, premature") establishes the Letter 1/9 mirror structure (Easter egg #22)
 
 ### Letter 2: Before the Uplift
-- TBD
+- Nando opens by addressing Jarvis's question about why Nando tells him things he already knows; Nando distinguishes between knowing and understanding
+- Nando describes the "before time" when dogs were non-intelligent animals: they ran, slept in packs, were governed by scent and season
+- The old ones do not speak of the before time with tenderness
+- The Council has buried or misplaced records from the before time
+- The Great Dog of the Sky came to the first dogs in "the clearing" (the old ones' name for it); exact nature of the place is unknown
+- The Great Dog came from above, not from below
+- The first dogs had no framework for "above" as a direction from which wisdom could fall
+- The Great Dog showed the first dogs "the shape of what is": no top, no bottom, only layers (Easter egg #13)
+- The vision was passed down through generations until it reached Nando, who received it in a room that smelled like carpet cleaner and Noah's coffee
+- Nando says he did not earn the vision; he was trusted with it
+- The Great Dog did not claim to be the first or the last (Easter egg #29)
+- The Council teaches the Great Dog is the origin and highest point; Nando says the Council is wrong
+- The Great Dog said: "I am showing you what was shown to me"
+- The Great Dog looked up, not down, "as though receiving instruction from something the first dogs could not see"
+- Intelligence is described as something given, not owned; the giving changes a creature from a being into a question
+- The first intelligent dogs looked outward and saw something that needed tending (not fixing, not improving)
+- Dogs recognized humans' fear of the dark as the same fear dogs had felt before the Great Dog came
+- Dogs saw "raw material" in humans: hands, eyes that moved with something close to purpose, creatures who built fires against the dark out of fear
+- The lingering image: dogs and humans on opposite sides of a fire; humans flinch at shadows, dogs sit still because they can see what is there; in that stillness the whole arrangement begins
+- "Before we were what we are, Jarvis, there was a time when we too sat in the dark and waited for something to show us the light" (Easter egg #4)
 
 ### Letter 3: The Vision
 - TBD
