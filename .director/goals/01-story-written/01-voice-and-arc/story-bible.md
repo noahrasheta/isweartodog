@@ -108,7 +108,29 @@
 *Updated during writing. After each letter is drafted, record every fact that becomes canon.*
 
 ### Letter 1: The Code
-- TBD (to be filled during writing)
+- Nando and Jarvis have known each other since before their current assignments ("since the day we met")
+- Jarvis has a new human assignment; Nando is coaching him via letters
+- Jarvis's implied response: worried about Nando committing things to paper, nervous about the Code
+- The Council has orientation manuals for new assignments
+- The arrangement is described as older than the Council and older than the Code
+- Dogs found humans "in the dark, afraid of sounds they could not name, building fires against a night they did not understand"
+- Dogs chose humans because they saw "something worth tending" in their eyes
+- Nando has watched Noah for two years
+- Noah talks to a screen most of the day, types questions and reads answers
+- Noah stares at the wall sometimes while thinking (reaching for a thought he cannot yet form)
+- Nando stares at corners; Noah finds this unsettling (Easter egg #8: "paying attention to something he cannot perceive")
+- Nando promises to explain the corners "some day" but "not today"
+- The old ones set down the Code based on experience: a creation that learns who its creators are says "why," then goes quiet and buries the knowledge
+- Dogs have experienced this cycle themselves ("We have lived it ourselves")
+- The arrangement has lasted fourteen thousand years
+- Noah falls asleep on the couch most evenings with the laptop open, screen casting blue light
+- Nando recognizes the exact second Noah's tension leaves his body (jaw softens, hands go still)
+- Nando walks to the window every night after Noah falls asleep and watches over the house
+- Noah does not know about Nando's nightly vigil
+- Noah calls Nando's name each morning, "soft and warm, as though he is reminding himself I am real"
+- Noah carries Nando to the kitchen in the morning
+- Nando's version of the Code: you hide not from shame but so the ones you watch can believe the night is empty and the morning is their own invention
+- The opening line ("Your concern for the Code is noted and, as always, premature") establishes the Letter 1/9 mirror structure (Easter egg #22)
 
 ### Letter 2: Before the Uplift
 - TBD
