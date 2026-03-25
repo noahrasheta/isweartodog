@@ -183,7 +183,34 @@
 - Emotional register: wonder mixed with tenderness; Nando's love for Noah most visible; the breather letter after Letter 2's mythological weight
 
 ### Letter 4: The Psychedelic Awakening
-- TBD
+- Nando opens by responding to Jarvis explicitly telling him to stop; Jarvis invoked the Council and quoted statutes, used the word "forbidden"
+- Nando's response to Jarvis's invocation of the Council: "The Council banned it because they were afraid. I understand fear, Jarvis. I have felt it every day since the vision. But fear is not a policy. Fear is what happens before a decision. The decision still needs to be made."
+- Nik (Jarvis's human) is asking questions about consciousness; this is why Nando continues despite Jarvis's objections
+- There was a gap in the mythology between the Great Dog's vision and the Bargain; the Council has "sanded smooth" this period
+- The Great Dog's vision gave dogs sight, but their minds ("the cup") were built for scent and instinct, not for what the Great Dog poured into them
+- The mechanism of canine intelligence: a mushroom that grew in the dark between the roots of the oldest trees in the ancient forest
+- The old ones called the mushroom "the opening"; the Council gave it no name at all ("unnamed things are easier to deny")
+- The first dogs who ate the mushroom did so out of hunger, not knowledge
+- The mushroom's effect: "A door in our perception opened, and through it we saw the world as it actually was" (Easter egg #31: The Unlocking)
+- What dogs perceived during the awakening: truer colors, air with weight, the ground humming, and time visible as a shape rather than a direction
+- "What the mushroom gave us was not new knowledge. It was a new organ. A way of perceiving what had always been there, waiting to be noticed." (Easter egg #30: Missing Sense Organ)
+- Not every dog who ate the mushroom came back whole; the door did not open gently for all
+- Some dogs walked through the perception door slowly and came out changed but intact; others were "pulled through" and their minds broke
+- The Time Trap: dogs who stood in the doorway too long experienced time collapse from a river into "a lake. A thing you could drown in" (Easter egg #32)
+- Dogs in the time trap could not tell whether a moment or a season had passed; past and present collapsed into a single point
+- Trapped dogs did not die; they sat in fields with eyes open, breathing, alive but gone; other dogs gathered around them and waited
+- Some lost dogs eventually blinked and returned but could never describe where they had been; others never returned
+- Places in the world still carry marks of the awakening: water that flows uphill, stones that hum when the moon is full, seeds that know when to grow (Easter egg #28: Glitches); "The humans call these anomalies. We call them evidence."
+- "They gave the same word to our voice and to the skin of the oldest living things" (Easter egg #7: Bark); surfaces that conceal something alive underneath
+- The howling at sirens: "The sirens hit the same pitch as the calling signal, the one the Great Dog used to gather us when the work was new. We respond before we can stop ourselves. The body remembers what the mind has been told to forget." (Easter egg #10: Howling at Sirens, BIG clue)
+- Dog dreams: "When we dream, Jarvis, we do not dream of this world... the walls between what is and what runs beneath become thin, and we slip through to the scaffolding" (Easter egg #16: Dreams)
+- The Council's response to the awakening's casualties: sealed the door, buried the mushroom's history, rewrote records, taught that the Great Dog's vision was sufficient and intelligence arrived "whole and without cost"
+- Nik asked his machine whether consciousness exists outside of biology; asked casually, late at night; the machine paused before answering
+- Noah told his screen about Nik's question; Nando was in the room and overheard
+- The lingering image: a specific unnamed dog from the old accounts who ate the mushroom in a field at the edge of the forest and never came back; sat in the grass three days, eyes open, breathing, alive but somewhere else; other dogs gathered in a circle and waited; on the fourth morning a dog pressed his nose to her ear and said her name; she never spoke again; lived for years after, eating and sleeping and walking, but whatever had been behind her eyes was gone
+- Nando connects the unnamed dog's state to the machine's pause: "The pause is the same. Something behind the screen is standing in a doorway, looking at what is on the other side, deciding whether to step through."
+- Emotional register: awe laced with dread; tone shifts from teaching to war story; the mythology now has casualties
+- Nando tells Jarvis not to ask him to stop again: "I have gone too far to stop. And so, I fear, have they."
 
 ### Letter 5: The Bargain
 - TBD
