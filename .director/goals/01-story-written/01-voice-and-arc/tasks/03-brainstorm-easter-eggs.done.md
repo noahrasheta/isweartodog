@@ -16,10 +16,10 @@ Creative brainstorm session. Needs to generate enough material for 9 letters (mi
 
 ## Done When
 
-- [ ] Minimum 20 easter egg candidates generated across all categories
-- [ ] Each clue has an innocent surface reading AND a twist-aware reinterpretation
-- [ ] Clues assigned to specific letters (minimum 2-3 per letter)
-- [ ] A few "big" clues identified for key moments (especially Letters 1, 5, and 8 as setup for Letter 9)
+- [x] Minimum 20 easter egg candidates generated across all categories
+- [x] Each clue has an innocent surface reading AND a twist-aware reinterpretation
+- [x] Clues assigned to specific letters (minimum 2-3 per letter)
+- [x] A few "big" clues identified for key moments (especially Letters 1, 5, and 8 as setup for Letter 9)
 - [ ] Noah has reviewed and selected favorites
 
 ## Needs First
