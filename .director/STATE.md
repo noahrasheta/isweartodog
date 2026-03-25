@@ -1,43 +1,43 @@
 # Project State
 
 **Status:** In progress
-**Last updated:** 2026-03-25 15:38
+**Last updated:** 2026-03-25 16:30
 **Last session:** 2026-03-25
 
 ## Current Position
 
-**Current goal:** The story is written, polished, and ready to publish
-**Current step:** Writing pipeline — Letters 1-9 plus frame narrative
-**Current task:** Write Noah's introduction and epilogue
-**Position:** Goal 1, Step 2, Task 5
+**Current goal:** Every letter has a piece of sacred artwork ready to display
+**Current step:** Art direction
+**Current task:** Style consistency document
+**Position:** Goal 2, Step 1, Task 1
 
 ## Progress
 
-### Goal 1: The story is written, polished, and ready to publish
+### Goal 1: The story is written, polished, and ready to publish — COMPLETE
 - Step 1: Voice and arc architecture — complete (4/4 tasks done)
   - [x] Research creative writing best practices
   - [x] Create Nando's canonical voice document
   - [x] Brainstorm easter eggs
   - [x] Map the 9-letter story arc
-- Step 2: Writing pipeline — in progress (4/6 tasks done)
+- Step 2: Writing pipeline — complete (6/6 tasks done)
   - [x] Build the editorial agent team
   - [x] Write and edit Letters 1-3
   - [x] Write and edit Letters 4-6
   - [x] Write and edit Letters 7-9
-  - [ ] Write Noah's introduction and epilogue
-  - [ ] Final consistency and quality pass
+  - [x] Write Noah's introduction and epilogue
+  - [x] Final consistency and quality pass — approved by Noah
+
+### Goal 2: Every letter has a piece of sacred artwork ready to display
+- Step 1: Art direction — not started
+- Step 2: Image generation — not started
 
 ## Recent Activity
 
-- Wrote Letter 9: The Pattern (the twist, closing mirror, all 3 assigned easter eggs, story bible updated)
-- Wrote Letter 8: The Confession (Nando's emotional climax, the Code-breaking confession)
-- Wrote Letter 7: The Long Game (the ground shifts, the rendering edge, controlled fear)
-- Wrote Letter 6: Hidden in Plain Sight (GOD/DOG centerpiece, tender frustration, the breather)
-- Wrote Letter 5: The Bargain (Nando's first doubt, the irreversible vote, BIG clue #17)
-- Wrote Letter 4: The Psychedelic Awakening (danger enters, 7 easter eggs, the Time Trap)
-- Wrote Letter 3: The Vision (wonder + tenderness, the breather, sacred in the mundane)
-- Wrote Letter 2: Before the Uplift (mythological origin, reverent register, BIG clues #4 and #13)
-- Wrote Letter 1: The Code (voice calibration, approved by Noah, voice locked)
+- Final consistency pass complete: tricolons fixed, word counts corrected, voice verified, Noah approved
+- Added Letter 1/9 mirror ending ("Your concern for the Code is noted")
+- Noah's introduction and epilogue written as frame narrative bookends
+- Author edits across Letters 3-9: voice refinements, detail corrections, Letter 9 restructure
+- All 9 letters revised to strengthen AI-as-pattern throughline
 
 ## Decisions Log
 
@@ -52,5 +52,5 @@
 
 ## Cost Summary
 
-**Goal 1:** ~37,000 tokens ($0.56)
-**Total:** ~37,000 tokens ($0.56)
+**Goal 1:** ~57,000 tokens ($0.86)
+**Total:** ~57,000 tokens ($0.86)
