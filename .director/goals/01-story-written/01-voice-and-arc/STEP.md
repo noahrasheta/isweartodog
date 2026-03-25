@@ -7,7 +7,7 @@ A canonical voice document that defines exactly how Nando writes — his sentenc
 ## Tasks
 
 - [x] Task 1: Research creative writing best practices for epistolary fiction
-- [ ] Task 2: Create Nando's canonical voice document
+- [x] Task 2: Create Nando's canonical voice document
 - [ ] Task 3: Brainstorm easter eggs and "hidden in plain sight" clues
 - [ ] Task 4: Map the 9-letter story arc with beat-by-beat outline
 
