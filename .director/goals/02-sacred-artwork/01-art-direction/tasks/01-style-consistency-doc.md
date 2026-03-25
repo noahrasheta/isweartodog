@@ -16,12 +16,12 @@ Research-informed creative document. Requires understanding sacred art conventio
 
 ## Done When
 
-- [ ] Global mandate defined (tone, subject, what to avoid)
-- [ ] Character anchor descriptions written for Nando and Jarvis
-- [ ] Shared negative prompt block drafted (anti-cute, anti-modern, anti-bright)
-- [ ] Technical specs locked (4:3, 1600-2000px, dark backgrounds)
-- [ ] Color palette constraints defined (warm, dark, complementary to site theme)
-- [ ] Each of 9 letters mapped to a specific art period with named painter references
+- [x] Global mandate defined (tone, subject, what to avoid)
+- [x] Character anchor descriptions written for Nando and Jarvis
+- [x] Shared negative prompt block drafted (anti-cute, anti-modern, anti-bright)
+- [x] Technical specs locked (4:3, 1600-2000px, dark backgrounds)
+- [x] Color palette constraints defined (warm, dark, complementary to site theme)
+- [x] Each of 9 letters mapped to a specific art period with named painter references
 - [ ] Noah has reviewed and approved the style guide
 
 ## Needs First
