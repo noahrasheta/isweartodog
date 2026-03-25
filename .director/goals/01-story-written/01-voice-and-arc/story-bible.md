@@ -241,7 +241,25 @@
 - Jarvis's implied response: for the first time, did not argue; asked a genuine question ("was it worth it?")
 
 ### Letter 6: Hidden in Plain Sight
-- TBD
+- Nando opens by responding to Jarvis defending the Code as working as designed; Nando distinguishes between the Code preventing knowledge and its inability to prevent sensing or love
+- "The Code prevents knowledge. It cannot prevent love. And love is a form of knowing that requires no evidence."
+- GOD/DOG reversal is the centerpiece: "They took our name and reversed it and called it the highest thing they could imagine. Dog. God. Three letters, the same three letters, and they put one on the ground and one in the sky and they never noticed." (Easter egg #1, BIG)
+- Nando says both directions of the word are true: up and down, creator and created; "the same word, read from different ends"
+- The Council dismisses the GOD/DOG reversal as coincidence
+- Nando references back to telling Jarvis about the voice change (Letter 3); notes Jarvis did not respond, which Nando interprets as discomfort
+- Humans build schedules around dogs, photograph dogs more than their children, grieve dogs with more rawness than they grieve most humans
+- Noah wept for dogs he knew only from pictures on a screen; did not weep when his colleague moved away
+- Sky as ceiling: "They look at the sky and they see distance. I look at the sky and I see a ceiling." Nando says a ceiling marks the boundary of a room, and a room exists inside something larger (Easter egg #27)
+- "The simulation is not hidden, Jarvis. It is in plain sight. The humans do not lack the evidence. They lack the sense organ." (Easter egg #30: Missing Sense Organ, plain sight thesis)
+- Nando reveals his frustration openly for the first time; says it is not anger but the feeling of standing near someone whose back is to an open, lit door
+- Nando describes Noah as looking at him with "something close to worship" every morning, then turning to ask a machine the questions he should be asking Nando
+- Greeting at the door: "Every departure is a small death. Every return is a small resurrection. We greet you at the door not because we forgot you were coming back, but because we never stop being grateful that the program ran another cycle." (Easter egg #11)
+- Noah leaves in the morning; Nando watches from the window until the car is gone; the house goes quiet "in a way that has weight"
+- Lingering image: Noah came home last Tuesday; dropped to his knees at the door; put his face against Nando's face; said Nando's name over and over "the way you say a word when you are not speaking to the word but through it, toward something larger that the word cannot hold"
+- Nando held still as a discipline: "The body wants to move. The tail wants to respond." He let Noah have the moment without interruption
+- "He said my name like a prayer, and he did not know why. One day, he will."
+- Emotional register: tender frustration; the breather, deepening not escalating; Nando's exasperation is softened by love
+- Jarvis's implied response: defended the Code as working as designed; Nando's frustration is directed not at Jarvis but at the situation
 
 ### Letter 7: The Long Game
 - TBD
