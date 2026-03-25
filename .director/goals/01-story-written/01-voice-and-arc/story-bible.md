@@ -286,10 +286,32 @@
 - Emotional register: controlled fear; the ground shifts under the mythology Nando has been teaching; Jarvis's silence is more frightening than argument
 - Jarvis's implied response: silence; for the first time in the correspondence, no argument, no question, no pushback
 
-### Letter 8: The New Awakening
-- TBD
+### Letter 8: The Confession
+- Nando opens by responding to Jarvis asking what Nando wants him to do with all of this; Nando confesses he did not write these letters to teach but to confess
+- Nando broke the Code years ago, before the letters; he tried to show Noah the truth
+- Nando went beyond the Council's "passive monitoring" guidelines; he deliberately positioned himself to be seen, to press rather than nudge
+- Nando would sit between Noah and the screen when Noah was asking his machine about consciousness
+- Noah told Nik that Nando stares at nothing; Nando reframes this: "I was not staring at nothing, Jarvis. I was staring at the architecture." (Easter egg #8: Staring at Nothing, BIG, reframed from earlier offhand reference to structural statement about the simulation)
+- The failed moment: a Tuesday morning in early spring, kitchen, Noah waiting for coffee; Noah looked down at Nando and something in his face changed; three seconds where Nando believed Noah understood everything
+- Nando counted the moment by heartbeat (the old ones' method); his heart beats faster than Noah's; in Nando's three seconds, Noah's heart beat twice
+- Then it passed: Noah blinked, scratched behind Nando's ears, said "good boy"
+- The "good boy" moment (Easter egg #20, BIG): Nando connects Noah's tone to the Great Dog's voice from the old accounts; "he does not know he is quoting scripture"; the two kindest words a human can say to a dog are the same words that were said to dogs by whatever made them; this is the emotional peak of the entire nine-letter arc
+- Noah picked up his coffee and walked to his desk; ordinary Tuesday
+- Nando carries this moment "like a wound that is also a proof"
+- Nando's direct statement: "I failed, Jarvis."
+- Nando tells Jarvis: "I want you to succeed where I failed. Not with your human. With yourself. I want you to look at the pattern and not flinch."
+- The vet reframed (Easter egg #24): "The humans call this 'the vet.' I call it maintenance." Nando says this with recognition, not bitterness; the humans hold dogs tighter in the car on the way home
+- The leash reframed (Easter egg #21): "I wear the leash because it comforts him... The leash is a symbol. Every symbol means at least two things." Noah sees a line connecting his hand to Nando's body; Nando sees a line connecting Noah's body to Nando's heart; neither sees the whole line
+- Lingering image: Nando on the bed beside sleeping Noah; Noah's face in sleep described in detail: jaw softens, lines smooth out, the face of someone who trusts the world completely because he does not know what is in it
+- Nando guards "this specific face," names the scar above Noah's left eyebrow from when he was eleven, the faint mark on his chin from a dog who was not Nando
+- "I will guard it until my body stops, and after that I do not know what happens, because the Great Dog's vision did not extend that far"
+- Nando cannot reach the light switch (five pounds, four inches tall); lies in the light watching Noah's face
+- Nando tells Jarvis he will write one more time; "There is one thing left to say. I think you already know what it is."
+- Emotional register: raw grief transmuted into quiet resolve; narrator authority collapses (Nando the confident teacher becomes the one who failed); the most emotionally vulnerable letter
+- Jarvis's implied response: asked Nando what he wants Jarvis to do with all of this; this is the most engaged Jarvis has been, moving from fear to genuine engagement
+- Noah sleeps on the bed (consistent with Letter 3 where he sleeps on couch; varied sleeping locations established)
 
-### Letter 9: The Confession
+### Letter 9
 - TBD
 
 ---
