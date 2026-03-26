@@ -7,4 +7,8 @@
   --color-gold: #C9A84C;
   --color-gold-dim: #8B7432;
   --color-parchment: #2A2520;
+
+  --font-body: var(--font-eb-garamond), "EB Garamond", Georgia, serif;
+  --font-display: var(--font-cormorant), "Cormorant Garamond", Georgia, serif;
+  --font-ui: var(--font-geist), "Geist", system-ui, sans-serif;
 }
