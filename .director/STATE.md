@@ -7,9 +7,9 @@
 ## Current Position
 
 **Current goal:** Readers experience the full story as an immersive, cinematic scroll
-**Current step:** Component architecture
-**Current task:** All 5 tasks complete
-**Position:** Goal 3, Step 2
+**Current step:** Content integration
+**Current task:** Integrate all 9 letters as MDX with exported metadata — complete
+**Position:** Goal 3, Step 3
 
 ## Progress
 
@@ -48,8 +48,12 @@
   - [x] Build ScrollProgress bar
   - [x] Build FrameNarrative component for intro and epilogue
 
+- Step 3: Content integration — in progress
+  - [x] Integrate all 9 letters as MDX with exported metadata
+
 ## Recent Activity
 
+- All 9 letters integrated into single-page scroll: explicit MDX imports, static image imports with blur placeholders, Letter+AnimatedSection wrappers, introduction and epilogue rendered via FrameNarrative, hash anchors #letter-1 through #letter-9
 - FrameNarrative Server Component created: intro/epilogue bookends with sans-serif font (Geist), muted tone, decorative separator, visually distinct from letter sections
 - Letter and LetterArt Server Components created: section containers with hash anchors, next/image with 4:3 aspect ratio and blur placeholder, prose typography for MDX content
 - Dark theme configured: EB Garamond body, Cormorant Garamond display, Geist Sans UI, cream-on-charcoal palette, @next/mdx pipeline with prose-invert

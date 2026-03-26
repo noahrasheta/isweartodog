@@ -1,12 +1,15 @@
 import { type ReactNode } from "react";
+import { type StaticImageData } from "next/image";
 import LetterArt from "@/components/LetterArt";
 
 interface LetterProps {
   number: number;
   title: string;
-  artworkSrc: string;
+  artworkSrc: string | StaticImageData;
   artworkAlt: string;
   blurDataURL?: string;
+  priority?: boolean;
+  sizes?: string;
   children: ReactNode;
 }
 
@@ -16,6 +19,8 @@ export default function Letter({
   artworkSrc,
   artworkAlt,
   blurDataURL,
+  priority = false,
+  sizes,
   children,
 }: LetterProps) {
   return (
@@ -37,6 +42,8 @@ export default function Letter({
         src={artworkSrc}
         alt={artworkAlt}
         blurDataURL={blurDataURL}
+        priority={priority}
+        sizes={sizes}
       />
 
       <div className="mx-auto max-w-3xl px-6">
