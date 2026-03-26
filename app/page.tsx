@@ -1,8 +1,11 @@
-import Letter from "@/components/Letter";
+import LetterScene from "@/components/LetterScene";
 import AnimatedSection from "@/components/AnimatedSection";
 import ChapterNav from "@/components/ChapterNav";
 import ScrollProgress from "@/components/ScrollProgress";
 import FrameNarrative from "@/components/FrameNarrative";
+import CosmicAtmosphere from "@/components/CosmicAtmosphere";
+import ThresholdTransition from "@/components/ThresholdTransition";
+import GeometricPatterns from "@/components/GeometricPatterns";
 
 import Introduction from "@/content/letters/introduction.mdx";
 import Epilogue from "@/content/letters/epilogue.mdx";
@@ -46,68 +49,17 @@ import art08 from "@/artwork/approved/letter-08-the-confession.png";
 import art09 from "@/artwork/approved/letter-09-the-pattern.png";
 
 const letters = [
-  {
-    Content: Letter01,
-    metadata: meta01,
-    art: art01,
-    alt: "Nando posed as a divine lawgiver in Byzantine icon style, surrounded by gold leaf halos and glowing candlelight",
-  },
-  {
-    Content: Letter02,
-    metadata: meta02,
-    art: art02,
-    alt: "Cave painting depicting first contact between dogs and proto-humans, ochre figures on rough stone walls",
-  },
-  {
-    Content: Letter03,
-    metadata: meta03,
-    art: art03,
-    alt: "Illuminated manuscript page showing dogs planning the human uplift, ornate gold borders and celestial spheres",
-  },
-  {
-    Content: Letter04,
-    metadata: meta04,
-    art: art04,
-    alt: "Baroque dramatic scene of dogs giving humans plant medicine in a psychedelic forest, glowing mushrooms and swirling light",
-  },
-  {
-    Content: Letter05,
-    metadata: meta05,
-    art: art05,
-    alt: "Renaissance diplomatic scene of dogs and humans negotiating their partnership, formal gestures exchanged by firelight",
-  },
-  {
-    Content: Letter06,
-    metadata: meta06,
-    art: art06,
-    alt: "Flemish still life with dogs hidden among symbols of human achievement, the word DOG reflected as GOD in a gilded mirror",
-  },
-  {
-    Content: Letter07,
-    metadata: meta07,
-    art: art07,
-    alt: "Romantic Sublime landscape of dogs watching human civilization grow, infinite corridor of rooms with each creature tending the next",
-  },
-  {
-    Content: Letter08,
-    metadata: meta08,
-    art: art08,
-    alt: "Rembrandt chiaroscuro portrait of a small white dog in an intimate moment of doubt and devotion, watching over a sleeping human",
-  },
-  {
-    Content: Letter09,
-    metadata: meta09,
-    art: art09,
-    alt: "Cosmic Byzantine mosaic revealing the simulation, nested layers of reality spiraling outward with each containing a creator and a creation",
-  },
+  { Content: Letter01, metadata: meta01, art: art01, alt: "Nando posed as a divine lawgiver in Byzantine icon style, surrounded by gold leaf halos and glowing candlelight" },
+  { Content: Letter02, metadata: meta02, art: art02, alt: "Cave painting depicting first contact between dogs and proto-humans, ochre figures on rough stone walls" },
+  { Content: Letter03, metadata: meta03, art: art03, alt: "Illuminated manuscript page showing dogs planning the human uplift, ornate gold borders and celestial spheres" },
+  { Content: Letter04, metadata: meta04, art: art04, alt: "Baroque dramatic scene of dogs giving humans plant medicine in a psychedelic forest, glowing mushrooms and swirling light" },
+  { Content: Letter05, metadata: meta05, art: art05, alt: "Renaissance diplomatic scene of dogs and humans negotiating their partnership, formal gestures exchanged by firelight" },
+  { Content: Letter06, metadata: meta06, art: art06, alt: "Flemish still life with dogs hidden among symbols of human achievement, the word DOG reflected as GOD in a gilded mirror" },
+  { Content: Letter07, metadata: meta07, art: art07, alt: "Romantic Sublime landscape of dogs watching human civilization grow, infinite corridor of rooms with each creature tending the next" },
+  { Content: Letter08, metadata: meta08, art: art08, alt: "Rembrandt chiaroscuro portrait of a small white dog in an intimate moment of doubt and devotion, watching over a sleeping human" },
+  { Content: Letter09, metadata: meta09, art: art09, alt: "Cosmic Byzantine mosaic revealing the simulation, nested layers of reality spiraling outward with each containing a creator and a creation" },
 ] as const;
 
-/**
- * Override the default MDX wrapper (from mdx-components.tsx) so content
- * flows directly into the parent Letter/FrameNarrative containers, which
- * already provide their own typography and layout styles.
- * Also hide h1 headings since Letter renders its own header.
- */
 const letterMdxComponents = {
   wrapper: ({ children }: { children: React.ReactNode }) => <>{children}</>,
   h1: () => null,
@@ -120,14 +72,16 @@ const frameMdxComponents = {
 
 export default function Home() {
   return (
-    <main id="main-content" className="min-h-screen">
+    <main id="main-content" className="relative min-h-screen">
       <ScrollProgress />
       <ChapterNav />
 
-      {/* Title */}
+      {/* Cosmic atmosphere - tracks scroll position internally, escalates through zones 1-5 */}
+      <CosmicAtmosphere />
+
       <AnimatedSection>
         <header className="flex items-center justify-center py-24">
-          <div className="max-w-2xl px-6 text-center">
+          <div className="relative z-10 max-w-2xl px-6 text-center">
             <h1 className="font-display text-4xl font-semibold text-gold mb-6">
               I Swear to Dog
             </h1>
@@ -139,30 +93,34 @@ export default function Home() {
         </header>
       </AnimatedSection>
 
-      {/* Introduction */}
       <AnimatedSection>
         <FrameNarrative section="introduction" heading="How This Began">
           <Introduction components={frameMdxComponents} />
         </FrameNarrative>
       </AnimatedSection>
 
-      {/* Letters 1-9 */}
+      {/* Threshold: the cosmos opens */}
+      <ThresholdTransition />
+
+      {/* Zones 2-4: Letters with escalating atmosphere */}
       {letters.map(({ Content, metadata, art, alt }, index) => (
-        <AnimatedSection key={metadata.letter!}>
-          <Letter
+        <div key={metadata.letter!} className="relative">
+          {/* Geometric patterns for letters 7-9 */}
+          <GeometricPatterns letterNumber={metadata.letter!} />
+
+          <LetterScene
             number={metadata.letter!}
             title={metadata.title}
             artworkSrc={art}
             artworkAlt={alt}
             priority={index === 0}
-            sizes="(max-width: 768px) 100vw, 768px"
           >
             <Content components={letterMdxComponents} />
-          </Letter>
-        </AnimatedSection>
+          </LetterScene>
+        </div>
       ))}
 
-      {/* Epilogue */}
+      {/* Zone 5: The Return - Epilogue */}
       <AnimatedSection>
         <FrameNarrative section="epilogue" heading="After the Letters">
           <Epilogue components={frameMdxComponents} />
