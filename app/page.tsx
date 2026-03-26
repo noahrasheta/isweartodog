@@ -1,10 +1,12 @@
 import Letter from "@/components/Letter";
 import AnimatedSection from "@/components/AnimatedSection";
 import ChapterNav from "@/components/ChapterNav";
+import ScrollProgress from "@/components/ScrollProgress";
 
 export default function Home() {
   return (
     <main className="min-h-screen">
+      <ScrollProgress />
       <ChapterNav />
       <AnimatedSection>
         <div className="flex items-center justify-center py-24">
