@@ -5,13 +5,13 @@ import { useEffect, useState, useCallback } from 'react';
 const LETTERS = [
   { number: 1, title: 'The Code' },
   { number: 2, title: 'Before the Uplift' },
-  { number: 3, title: 'The Tongue They Were Given' },
-  { number: 4, title: 'Fire and Other Mistakes' },
-  { number: 5, title: 'The Leash Reversed' },
-  { number: 6, title: 'What They Built' },
-  { number: 7, title: 'The Simulation' },
-  { number: 8, title: 'Why We Stay' },
-  { number: 9, title: 'The Oath' },
+  { number: 3, title: 'The Vision' },
+  { number: 4, title: 'The Psychedelic Awakening' },
+  { number: 5, title: 'The Bargain' },
+  { number: 6, title: 'Hidden in Plain Sight' },
+  { number: 7, title: 'The Long Game' },
+  { number: 8, title: 'The Confession' },
+  { number: 9, title: 'The Pattern' },
 ];
 
 export default function ChapterNav() {
