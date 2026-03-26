@@ -1,11 +1,8 @@
 import { type ReactNode } from "react";
 
 interface FrameNarrativeProps {
-  /** "introduction" or "epilogue" — sets the section id and aria label */
   section: "introduction" | "epilogue";
-  /** Optional heading displayed above the narrative */
   heading?: string;
-  /** MDX content or other React children */
   children: ReactNode;
 }
 
@@ -20,9 +17,9 @@ export default function FrameNarrative({
     <section
       id={section}
       aria-label={section.charAt(0).toUpperCase() + section.slice(1)}
-      className={`py-20 md:py-28 ${isEpilogue ? "pt-32 md:pt-40" : "pb-12 md:pb-16"}`}
+      className={`relative py-20 md:py-28 ${isEpilogue ? "pt-32 md:pt-40" : "pb-12 md:pb-16"}`}
     >
-      <div className="mx-auto max-w-2xl px-6">
+      <div className="relative z-10 mx-auto max-w-2xl px-6">
         {heading && (
           <header className="mb-10 text-center">
             <p className="font-ui text-xs uppercase tracking-[0.25em] text-gold-muted">
