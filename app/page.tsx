@@ -50,55 +50,55 @@ const letters = [
     Content: Letter01,
     metadata: meta01,
     art: art01,
-    alt: "A Byzantine icon depicting a sacred Maltese, gold leaf and candlelight",
+    alt: "Nando posed as a divine lawgiver in Byzantine icon style, surrounded by gold leaf halos and glowing candlelight",
   },
   {
     Content: Letter02,
     metadata: meta02,
     art: art02,
-    alt: "A cave painting showing primitive humans watched over by canine figures",
+    alt: "Cave painting depicting first contact between dogs and proto-humans, ochre figures on rough stone walls",
   },
   {
     Content: Letter03,
     metadata: meta03,
     art: art03,
-    alt: "A luminous dog gazing upward at layered celestial spheres",
+    alt: "Illuminated manuscript page showing dogs planning the human uplift, ornate gold borders and celestial spheres",
   },
   {
     Content: Letter04,
     metadata: meta04,
     art: art04,
-    alt: "Psychedelic forest scene with glowing mushrooms and awakening dogs",
+    alt: "Baroque dramatic scene of dogs giving humans plant medicine in a psychedelic forest, glowing mushrooms and swirling light",
   },
   {
     Content: Letter05,
     metadata: meta05,
     art: art05,
-    alt: "Two silhouettes by a fire, one human and one dog, under a vast sky",
+    alt: "Renaissance diplomatic scene of dogs and humans negotiating their partnership, formal gestures exchanged by firelight",
   },
   {
     Content: Letter06,
     metadata: meta06,
     art: art06,
-    alt: "The word DOG reflected as GOD in a gilded mirror",
+    alt: "Flemish still life with dogs hidden among symbols of human achievement, the word DOG reflected as GOD in a gilded mirror",
   },
   {
     Content: Letter07,
     metadata: meta07,
     art: art07,
-    alt: "An infinite corridor of rooms, each with a smaller creature tending a larger one",
+    alt: "Romantic Sublime landscape of dogs watching human civilization grow, infinite corridor of rooms with each creature tending the next",
   },
   {
     Content: Letter08,
     metadata: meta08,
     art: art08,
-    alt: "A small white dog staring intently at a sleeping human in blue light",
+    alt: "Rembrandt chiaroscuro portrait of a small white dog in an intimate moment of doubt and devotion, watching over a sleeping human",
   },
   {
     Content: Letter09,
     metadata: meta09,
     art: art09,
-    alt: "Nested layers of reality spiraling outward, each containing a creator and a creation",
+    alt: "Cosmic Byzantine mosaic revealing the simulation, nested layers of reality spiraling outward with each containing a creator and a creation",
   },
 ] as const;
 
@@ -126,7 +126,7 @@ export default function Home() {
 
       {/* Title */}
       <AnimatedSection>
-        <div className="flex items-center justify-center py-24">
+        <header className="flex items-center justify-center py-24">
           <div className="max-w-2xl px-6 text-center">
             <h1 className="font-display text-4xl font-semibold text-gold mb-6">
               I Swear to Dog
@@ -136,7 +136,7 @@ export default function Home() {
               of the human species.
             </p>
           </div>
-        </div>
+        </header>
       </AnimatedSection>
 
       {/* Introduction */}

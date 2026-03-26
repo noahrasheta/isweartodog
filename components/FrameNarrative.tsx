@@ -34,9 +34,9 @@ export default function FrameNarrative({
           </header>
         )}
 
-        <div className="space-y-6 font-ui text-base leading-[1.85] text-cream/70 md:text-lg md:leading-[1.85]">
+        <article className="space-y-6 font-ui text-base leading-[1.85] text-cream/70 md:text-lg md:leading-[1.85]">
           {children}
-        </div>
+        </article>
 
         {!isEpilogue && (
           <div className="mx-auto mt-16 flex items-center justify-center gap-3">

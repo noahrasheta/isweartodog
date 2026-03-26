@@ -46,11 +46,11 @@ export default function Letter({
         sizes={sizes}
       />
 
-      <div className="mx-auto max-w-3xl px-6">
+      <article className="mx-auto max-w-3xl px-6">
         <div className="prose prose-invert prose-lg prose-headings:font-display prose-headings:text-gold prose-p:text-cream prose-p:leading-relaxed prose-a:text-gold prose-a:no-underline hover:prose-a:underline focus-visible:prose-a:outline-2 focus-visible:prose-a:outline-gold focus-visible:prose-a:outline-offset-2 prose-strong:text-cream prose-blockquote:border-gold-dim prose-blockquote:text-cream/80">
           {children}
         </div>
-      </div>
+      </article>
     </section>
   );
 }
