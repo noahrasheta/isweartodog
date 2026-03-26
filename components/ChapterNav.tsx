@@ -123,7 +123,7 @@ export default function ChapterNav() {
                       : 'h-2 w-2 bg-cream/30 group-hover:bg-cream/60'
                   }`}
                 />
-                <span className="pointer-events-none absolute right-full mr-3 whitespace-nowrap rounded bg-charcoal/90 px-2.5 py-1 font-ui text-xs text-cream/90 opacity-0 shadow-lg backdrop-blur-sm transition-opacity duration-200 group-hover:opacity-100">
+                <span className="pointer-events-none absolute right-full mr-3 whitespace-nowrap rounded bg-charcoal/95 px-2.5 py-1 font-ui text-xs text-cream/90 opacity-0 shadow-lg transition-opacity duration-200 group-hover:opacity-100">
                   {letter.title}
                 </span>
               </button>
