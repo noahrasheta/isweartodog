@@ -1,0 +1,136 @@
+'use client';
+
+import { useEffect, useState, useCallback } from 'react';
+
+const LETTERS = [
+  { number: 1, title: 'The Code' },
+  { number: 2, title: 'Before the Uplift' },
+  { number: 3, title: 'The Tongue They Were Given' },
+  { number: 4, title: 'Fire and Other Mistakes' },
+  { number: 5, title: 'The Leash Reversed' },
+  { number: 6, title: 'What They Built' },
+  { number: 7, title: 'The Simulation' },
+  { number: 8, title: 'Why We Stay' },
+  { number: 9, title: 'The Oath' },
+];
+
+export default function ChapterNav() {
+  const [activeIndex, setActiveIndex] = useState(-1);
+  const [mounted, setMounted] = useState(false);
+  const [presentSections, setPresentSections] = useState<Set<number>>(
+    new Set(),
+  );
+
+  useEffect(() => {
+    setMounted(true);
+
+    const sectionEls: HTMLElement[] = [];
+    const visibilityMap = new Map<string, boolean>();
+    const found = new Set<number>();
+
+    for (const letter of LETTERS) {
+      const el = document.getElementById(`letter-${letter.number}`);
+      if (el) {
+        sectionEls.push(el);
+        visibilityMap.set(el.id, false);
+        found.add(letter.number);
+      }
+    }
+
+    setPresentSections(found);
+
+    if (sectionEls.length === 0) return;
+
+    const updateActive = () => {
+      for (let i = 0; i < sectionEls.length; i++) {
+        if (visibilityMap.get(sectionEls[i].id)) {
+          setActiveIndex(
+            LETTERS.findIndex(
+              (l) => `letter-${l.number}` === sectionEls[i].id,
+            ),
+          );
+          return;
+        }
+      }
+    };
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          visibilityMap.set(entry.target.id, entry.isIntersecting);
+        }
+        updateActive();
+      },
+      {
+        rootMargin: '-20% 0px -20% 0px',
+        threshold: 0,
+      },
+    );
+
+    for (const el of sectionEls) {
+      observer.observe(el);
+    }
+
+    return () => {
+      observer.disconnect();
+    };
+  }, []);
+
+  const scrollTo = useCallback((number: number) => {
+    const el = document.getElementById(`letter-${number}`);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth' });
+      window.history.replaceState(null, '', `#letter-${number}`);
+    }
+  }, []);
+
+  if (!mounted) return null;
+
+  return (
+    <nav
+      aria-label="Letter navigation"
+      className="fixed right-4 top-1/2 z-50 -translate-y-1/2 transition-opacity duration-500 md:right-6"
+      style={{ opacity: activeIndex >= 0 ? 1 : 0 }}
+    >
+      <ol className="flex flex-col items-center gap-3">
+        {LETTERS.map((letter, i) => {
+          const isActive = i === activeIndex;
+          const exists = presentSections.has(letter.number);
+
+          if (!exists) {
+            return (
+              <li key={letter.number}>
+                <span
+                  className="block h-2 w-2 rounded-full bg-cream/10"
+                  aria-hidden="true"
+                />
+              </li>
+            );
+          }
+
+          return (
+            <li key={letter.number}>
+              <button
+                onClick={() => scrollTo(letter.number)}
+                aria-label={`Letter ${letter.number}: ${letter.title}`}
+                title={`Letter ${letter.number}: ${letter.title}`}
+                className="group relative flex items-center justify-center p-1"
+              >
+                <span
+                  className={`block rounded-full transition-all duration-300 ${
+                    isActive
+                      ? 'h-3 w-3 bg-gold shadow-[0_0_8px_rgba(201,168,76,0.4)]'
+                      : 'h-2 w-2 bg-cream/30 group-hover:bg-cream/60'
+                  }`}
+                />
+                <span className="pointer-events-none absolute right-full mr-3 whitespace-nowrap rounded bg-charcoal/90 px-2.5 py-1 font-ui text-xs text-cream/90 opacity-0 shadow-lg backdrop-blur-sm transition-opacity duration-200 group-hover:opacity-100">
+                  {letter.title}
+                </span>
+              </button>
+            </li>
+          );
+        })}
+      </ol>
+    </nav>
+  );
+}

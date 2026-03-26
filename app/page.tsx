@@ -1,9 +1,11 @@
 import Letter from "@/components/Letter";
 import AnimatedSection from "@/components/AnimatedSection";
+import ChapterNav from "@/components/ChapterNav";
 
 export default function Home() {
   return (
     <main className="min-h-screen">
+      <ChapterNav />
       <AnimatedSection>
         <div className="flex items-center justify-center py-24">
           <div className="max-w-2xl px-6 text-center">
