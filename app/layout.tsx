@@ -69,6 +69,16 @@ export default function RootLayout({
       className={`dark ${ebGaramond.variable} ${cormorantGaramond.variable} ${geistSans.variable}`}
     >
       <body className="bg-charcoal font-body text-cream antialiased">
+        <svg aria-hidden="true" className="absolute h-0 w-0">
+          <filter id="grain">
+            <feTurbulence
+              type="fractalNoise"
+              baseFrequency="0.65"
+              numOctaves="3"
+              stitchTiles="stitch"
+            />
+          </filter>
+        </svg>
         <a href="#main-content" className="skip-link">
           Skip to content
         </a>

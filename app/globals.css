@@ -56,3 +56,17 @@
   font-size: 0.875rem;
   z-index: 100;
 }
+
+/* Film grain overlay — desktop only, respects reduced motion */
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    pointer-events: none;
+    filter: url(#grain);
+    opacity: 0.04;
+    mix-blend-mode: overlay;
+  }
+}
