@@ -1,7 +1,7 @@
 'use client';
 
 import { type ReactNode } from "react";
-import { motion, type TargetAndTransition } from "framer-motion";
+import { motion, useReducedMotion, type TargetAndTransition } from "framer-motion";
 
 interface AnimatedSectionProps {
   children: ReactNode;
@@ -25,6 +25,12 @@ export default function AnimatedSection({
   className,
   delay = 0,
 }: AnimatedSectionProps) {
+  const prefersReducedMotion = useReducedMotion();
+
+  if (prefersReducedMotion) {
+    return <div className={className}>{children}</div>;
+  }
+
   return (
     <motion.div
       initial={hidden}
