@@ -2,6 +2,7 @@ import Letter from "@/components/Letter";
 import AnimatedSection from "@/components/AnimatedSection";
 import ChapterNav from "@/components/ChapterNav";
 import ScrollProgress from "@/components/ScrollProgress";
+import FrameNarrative from "@/components/FrameNarrative";
 
 export default function Home() {
   return (
@@ -20,6 +21,27 @@ export default function Home() {
             </p>
           </div>
         </div>
+      </AnimatedSection>
+
+      <AnimatedSection>
+        <FrameNarrative section="introduction" heading="How This Began">
+          <p>
+            I should probably explain how I ended up publishing the private
+            correspondence of my dog. It started, as most things do, with Nando
+            staring at me from across the room with an expression I can only describe
+            as disappointed omniscience.
+          </p>
+          <p>
+            He is five pounds. He sleeps in a bed shaped like a croissant. And
+            apparently, he has been sitting on the origin story of our entire species
+            this whole time.
+          </p>
+          <p>
+            The letters that follow were found on a USB drive tucked inside his
+            favorite stuffed lamb. I do not know how he typed them. I have learned
+            not to ask.
+          </p>
+        </FrameNarrative>
       </AnimatedSection>
 
       <AnimatedSection>
@@ -59,6 +81,21 @@ export default function Home() {
             they occasionally produced could be used for anything beyond more banging.
           </p>
         </Letter>
+      </AnimatedSection>
+
+      <AnimatedSection>
+        <FrameNarrative section="epilogue" heading="After the Letters">
+          <p>
+            Nando is asleep on my foot right now. He does this thing where he
+            sighs once, very deeply, before he settles in, like someone who has
+            seen the whole arc of history and finds it only mildly interesting.
+          </p>
+          <p>
+            I have read these letters more times than I can count. I keep waiting
+            for them to stop making sense. They never do. That is the part that
+            keeps me up at night.
+          </p>
+        </FrameNarrative>
       </AnimatedSection>
     </main>
   );
