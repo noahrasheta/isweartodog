@@ -19,6 +19,10 @@
   --color-gold-dim: #8B7432;
   --color-gold-muted: #A8923E;
   --color-parchment: #2A2520;
+  --color-parchment-surface: #F2EDE4;
+  --color-parchment-text: #1C1917;
+  --color-parchment-muted: #78716C;
+  --color-parchment-border: rgba(242, 237, 228, 0.15);
 
   --font-body: var(--font-eb-garamond), "EB Garamond", Georgia, serif;
   --font-display: var(--font-cormorant), "Cormorant Garamond", Georgia, serif;
@@ -69,4 +73,55 @@
     opacity: 0.04;
     mix-blend-mode: overlay;
   }
+}
+
+/* Star twinkle animation */
+@keyframes twinkle {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 1; }
+}
+
+/* Particle drift animation */
+@keyframes drift {
+  0% { transform: translateY(0) translateX(0); }
+  25% { transform: translateY(-30px) translateX(10px); }
+  50% { transform: translateY(-15px) translateX(-8px); }
+  75% { transform: translateY(-45px) translateX(5px); }
+  100% { transform: translateY(-60px) translateX(0); opacity: 0; }
+}
+
+/* Slow float for near-star parallax feel */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+
+/* Nebula pulse - very subtle scale/opacity shift */
+@keyframes nebula-pulse {
+  0%, 100% { opacity: 0.4; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.05); }
+}
+
+/* Atmosphere: reduced motion kills all animations */
+@media (prefers-reduced-motion: no-preference) {
+  .star-twinkle {
+    animation: twinkle var(--twinkle-duration, 4s) ease-in-out var(--twinkle-delay, 0s) infinite;
+  }
+
+  .particle-drift {
+    animation: drift var(--drift-duration, 40s) linear var(--drift-delay, 0s) infinite;
+  }
+
+  .star-float {
+    animation: float var(--float-duration, 8s) ease-in-out var(--float-delay, 0s) infinite;
+  }
+
+  .nebula-animate {
+    animation: nebula-pulse 20s ease-in-out infinite;
+  }
+}
+
+/* Parchment noise texture */
+.parchment-texture {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
 }
