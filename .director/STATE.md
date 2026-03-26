@@ -1,15 +1,15 @@
 # Project State
 
 **Status:** In progress
-**Last updated:** 2026-03-25 21:56
+**Last updated:** 2026-03-25 22:15
 **Last session:** 2026-03-25
 
 ## Current Position
 
 **Current goal:** Readers experience the full story as an immersive, cinematic scroll
-**Current step:** Next step in Goal 3
-**Current task:** First task in Goal 3
-**Position:** Goal 3, Step 1
+**Current step:** Project setup and theme
+**Current task:** Configure dark theme, fonts, and MDX pipeline
+**Position:** Goal 3, Step 1, Task 2
 
 ## Progress
 
@@ -37,8 +37,14 @@
   - [x] Letters 7-9 generated and curated
   - [x] Side-by-side visual cohesion review — approved by Noah
 
+### Goal 3: Readers experience the full story as an immersive, cinematic scroll — IN PROGRESS
+- Step 1: Project setup and theme — in progress (1/2 tasks done)
+  - [x] Scaffold Next.js 16 project with TypeScript and Tailwind CSS 4
+  - [ ] Configure dark theme, fonts, and MDX pipeline
+
 ## Recent Activity
 
+- Next.js 16 scaffolded with TypeScript, Tailwind CSS 4, @tailwindcss/typography, dark theme colors
 - Final consistency pass complete: tricolons fixed, word counts corrected, voice verified, Noah approved
 - Added Letter 1/9 mirror ending ("Your concern for the Code is noted")
 - Noah's introduction and epilogue written as frame narrative bookends

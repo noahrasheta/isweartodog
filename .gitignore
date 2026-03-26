@@ -5,5 +5,19 @@
 PRD.md
 research/
 
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
 # Environment
 .env*.local
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel

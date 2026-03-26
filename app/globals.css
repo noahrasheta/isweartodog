@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-cream: #F5F0E8;
+  --color-charcoal: #1A1A1A;
+  --color-gold: #C9A84C;
+  --color-gold-dim: #8B7432;
+  --color-parchment: #2A2520;
+}

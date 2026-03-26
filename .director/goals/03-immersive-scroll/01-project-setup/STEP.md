@@ -6,7 +6,7 @@ A Next.js 16 project with TypeScript, Tailwind CSS 4 configured with the dark-on
 
 ## Tasks
 
-- [ ] Task 1: Scaffold Next.js 16 project with TypeScript and Tailwind CSS 4
+- [x] Task 1: Scaffold Next.js 16 project with TypeScript and Tailwind CSS 4
 - [ ] Task 2: Configure dark theme, fonts, and MDX pipeline
 
 ## Needs First
