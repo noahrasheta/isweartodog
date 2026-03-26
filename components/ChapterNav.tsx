@@ -119,11 +119,11 @@ export default function ChapterNav() {
                 <span
                   className={`block rounded-full transition-all duration-300 ${
                     isActive
-                      ? 'h-3 w-3 bg-gold shadow-[0_0_8px_rgba(201,168,76,0.4)]'
-                      : 'h-2 w-2 bg-cream/30 group-hover:bg-cream/60'
+                      ? 'h-3 w-3 bg-white shadow-[0_0_12px_4px_rgba(255,255,255,0.3)]'
+                      : 'h-2 w-2 bg-white/30 group-hover:bg-white/60 group-hover:shadow-[0_0_6px_2px_rgba(255,255,255,0.15)]'
                   }`}
                 />
-                <span className="pointer-events-none absolute right-full mr-3 whitespace-nowrap rounded bg-charcoal/95 px-2.5 py-1 font-ui text-xs text-cream/90 opacity-0 shadow-lg transition-opacity duration-200 group-hover:opacity-100">
+                <span className="pointer-events-none absolute right-full mr-3 whitespace-nowrap rounded-md bg-parchment-surface/95 px-2.5 py-1 font-ui text-xs text-parchment-text opacity-0 shadow-lg transition-opacity duration-200 group-hover:opacity-100">
                   {letter.title}
                 </span>
               </button>
