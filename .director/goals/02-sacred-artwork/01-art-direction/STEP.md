@@ -6,7 +6,7 @@ An artwork style consistency document that locks the visual rules across all 9 i
 
 ## Tasks
 
-- [x] Task 1: Create artwork style consistency document
+- [x] Task 1: Create artwork style consistency document -- DONE
 - [ ] Task 2: Generate per-letter image prompts with character and scene descriptions
 
 ## Needs First
