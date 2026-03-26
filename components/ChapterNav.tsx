@@ -114,7 +114,7 @@ export default function ChapterNav() {
                 onClick={() => scrollTo(letter.number)}
                 aria-label={`Letter ${letter.number}: ${letter.title}`}
                 title={`Letter ${letter.number}: ${letter.title}`}
-                className="group relative flex items-center justify-center p-1"
+                className="group relative flex items-center justify-center p-1 rounded-full focus-visible:outline-2 focus-visible:outline-gold focus-visible:outline-offset-2"
               >
                 <span
                   className={`block rounded-full transition-all duration-300 ${

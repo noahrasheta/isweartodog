@@ -38,6 +38,9 @@ export default function RootLayout({
       className={`dark ${ebGaramond.variable} ${cormorantGaramond.variable} ${geistSans.variable}`}
     >
       <body className="bg-charcoal font-body text-cream antialiased">
+        <a href="#main-content" className="skip-link">
+          Skip to content
+        </a>
         {children}
       </body>
     </html>

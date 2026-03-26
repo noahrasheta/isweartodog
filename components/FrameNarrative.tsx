@@ -25,7 +25,7 @@ export default function FrameNarrative({
       <div className="mx-auto max-w-2xl px-6">
         {heading && (
           <header className="mb-10 text-center">
-            <p className="font-ui text-xs uppercase tracking-[0.25em] text-gold-dim">
+            <p className="font-ui text-xs uppercase tracking-[0.25em] text-gold-muted">
               {section === "introduction" ? "A note from Noah" : "Afterward"}
             </p>
             <h2 className="font-display mt-3 text-2xl font-light tracking-tight text-cream/90 md:text-3xl">
