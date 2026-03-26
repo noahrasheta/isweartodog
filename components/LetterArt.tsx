@@ -30,6 +30,8 @@ export default function LetterArt({
           placeholder={usePlaceholder ? "blur" : "empty"}
           blurDataURL={isStaticImport ? undefined : blurDataURL}
           priority={priority}
+          loading={priority ? "eager" : "lazy"}
+          quality={75}
         />
       </div>
     </figure>
