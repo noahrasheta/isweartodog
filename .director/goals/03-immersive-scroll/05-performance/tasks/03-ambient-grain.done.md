@@ -16,12 +16,12 @@ Well-documented CSS pattern. The hard part is calibrating subtlety — too much 
 
 ## Done When
 
-- [ ] SVG feTurbulence grain filter applied as overlay
-- [ ] Desktop only (@media (hover: hover))
-- [ ] Disabled for prefers-reduced-motion users
-- [ ] Subtle enough to not affect readability
-- [ ] No impact on Lighthouse performance score
-- [ ] Adds to atmospheric dark theme without being distracting
+- [x] SVG feTurbulence grain filter applied as overlay (inline SVG in layout.tsx)
+- [x] Desktop only (@media (hover: hover))
+- [x] Disabled for prefers-reduced-motion users
+- [x] Subtle enough to not affect readability (opacity 0.04, mix-blend-mode overlay)
+- [x] No impact on Lighthouse performance score (pure CSS, zero JS)
+- [x] Adds to atmospheric dark theme without being distracting
 
 ## Needs First
 
