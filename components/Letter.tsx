@@ -1,0 +1,49 @@
+import { type ReactNode } from "react";
+import LetterArt from "@/components/LetterArt";
+
+interface LetterProps {
+  number: number;
+  title: string;
+  artworkSrc: string;
+  artworkAlt: string;
+  blurDataURL?: string;
+  children: ReactNode;
+}
+
+export default function Letter({
+  number,
+  title,
+  artworkSrc,
+  artworkAlt,
+  blurDataURL,
+  children,
+}: LetterProps) {
+  return (
+    <section
+      id={`letter-${number}`}
+      aria-label={`Letter ${number}: ${title}`}
+      className="py-24 first:pt-16 last:pb-32 md:py-32"
+    >
+      <header className="mx-auto mb-8 max-w-3xl px-6 text-center">
+        <p className="font-ui text-sm uppercase tracking-widest text-gold-dim">
+          Letter {number}
+        </p>
+        <h2 className="font-display mt-2 text-3xl font-semibold tracking-tight text-gold md:text-4xl">
+          {title}
+        </h2>
+      </header>
+
+      <LetterArt
+        src={artworkSrc}
+        alt={artworkAlt}
+        blurDataURL={blurDataURL}
+      />
+
+      <div className="mx-auto max-w-3xl px-6">
+        <div className="prose prose-invert prose-lg prose-headings:font-display prose-headings:text-gold prose-p:text-cream prose-p:leading-relaxed prose-a:text-gold prose-a:no-underline hover:prose-a:underline prose-strong:text-cream prose-blockquote:border-gold-dim prose-blockquote:text-cream/80">
+          {children}
+        </div>
+      </div>
+    </section>
+  );
+}

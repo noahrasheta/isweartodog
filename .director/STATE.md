@@ -1,14 +1,14 @@
 # Project State
 
 **Status:** In progress
-**Last updated:** 2026-03-26 07:51
+**Last updated:** 2026-03-26 08:15
 **Last session:** 2026-03-26
 
 ## Current Position
 
 **Current goal:** Readers experience the full story as an immersive, cinematic scroll
-**Current step:** Project setup and theme
-**Current task:** (starting Step 2)
+**Current step:** Component architecture
+**Current task:** Task 1 complete, starting Task 2
 **Position:** Goal 3, Step 2
 
 ## Progress
@@ -41,9 +41,16 @@
 - Step 1: Project setup and theme — complete (2/2 tasks done)
   - [x] Scaffold Next.js 16 project with TypeScript and Tailwind CSS 4
   - [x] Configure dark theme, fonts, and MDX pipeline
+- Step 2: Component architecture — in progress (1/5 tasks done)
+  - [x] Build Letter and LetterArt components
+  - [ ] Build AnimatedSection wrapper with scroll-triggered entrances
+  - [ ] Build ChapterNav with floating dots and IntersectionObserver
+  - [ ] Build ScrollProgress bar
+  - [ ] Build FrameNarrative component for intro and epilogue
 
 ## Recent Activity
 
+- Letter and LetterArt Server Components created: section containers with hash anchors, next/image with 4:3 aspect ratio and blur placeholder, prose typography for MDX content
 - Dark theme configured: EB Garamond body, Cormorant Garamond display, Geist Sans UI, cream-on-charcoal palette, @next/mdx pipeline with prose-invert
 - Next.js 16 scaffolded with TypeScript, Tailwind CSS 4, @tailwindcss/typography, dark theme colors
 - Final consistency pass complete: tricolons fixed, word counts corrected, voice verified, Noah approved
