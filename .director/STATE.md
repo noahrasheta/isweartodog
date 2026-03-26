@@ -8,8 +8,8 @@
 
 **Current goal:** Every letter has a piece of sacred artwork ready to display
 **Current step:** Art direction
-**Current task:** Style consistency document
-**Position:** Goal 2, Step 1, Task 1
+**Current task:** Per-letter image prompts (awaiting Noah review)
+**Position:** Goal 2, Step 1, Task 2
 
 ## Progress
 

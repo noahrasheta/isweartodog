@@ -16,12 +16,12 @@ Nine detailed prompts, each requiring close reading of its letter and careful pr
 
 ## Done When
 
-- [ ] 9 image generation prompts written, one per letter
-- [ ] Each prompt specifies: scene, art style, character portrayal, mood, palette, painter reference
-- [ ] All prompts inherit the shared negative prompt and technical specs
-- [ ] Prompts are formatted ready for Replicate (copy-paste ready)
+- [x] 9 image generation prompts written, one per letter
+- [x] Each prompt specifies: scene, art style, character portrayal, mood, palette, painter reference
+- [x] All prompts inherit the shared negative prompt and technical specs
+- [x] Prompts are formatted ready for Replicate (copy-paste ready)
 - [ ] Noah has reviewed prompts against the letters they illustrate
-- [ ] Curation checklist created (what to look for when evaluating generated candidates)
+- [x] Curation checklist created (what to look for when evaluating generated candidates)
 
 ## Needs First
 
