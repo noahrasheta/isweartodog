@@ -40,13 +40,21 @@ all times; no human expressions, no anthropomorphic features.
 ### Jarvis
 
 ```
-A larger, older dog with darker fur and a heavier build. The demeanor
-of a wise elder: patient, attentive, grounded. Where Nando is intense
-and luminous, Jarvis is steady and calm. He is the listener, the
-recipient, the careful one. Natural canine anatomy, mature bearing.
-If present, he is positioned as the audience to Nando's authority,
-not a subordinate but a peer receiving instruction.
+A golden labradoodle: larger than Nando, with warm golden-toned curly
+fur, a sturdy build, and a broad gentle face. The demeanor of a wise
+elder: patient, attentive, grounded. Where Nando is intense and
+luminous, Jarvis is steady and calm. He is the listener, the
+recipient, the careful one. Golden-brown curly coat, soft dark eyes,
+natural canine anatomy, mature bearing. If present, he is positioned
+as the audience to Nando's authority, not a subordinate but a peer
+receiving instruction.
 ```
+
+**Identity markers that survive style transformation:**
+- Golden-brown curly fur (rendered as appropriate to the medium: warm ochre curls in oil, golden-brown swirls in tempera, tawny pigment in cave painting)
+- Larger and sturdier than Nando, but never dominant in composition
+- Warm, grounded presence: seated or lying, never agitated
+- Soft dark eyes with patient attention
 
 **When Jarvis appears:**
 Jarvis is the recipient of the letters. He does not need to appear in every image. When present, he occupies a secondary but dignified position: the listener across a table, the figure receiving a scroll, the companion on the other side of the fire. In images where Nando is alone, Jarvis's absence is itself a compositional choice, emphasizing Nando's solitary authority.
