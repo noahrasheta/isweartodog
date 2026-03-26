@@ -13,6 +13,6 @@ I Swear to Dog is a cinematic storytelling website — 9 letters from a five-pou
 
 ## Current Focus
 
-**Current Goal:** Goal 2
-**Current Step:** Step 2 (Image generation)
-**Next Up:** Generate and curate artwork for all 9 letters
+**Current Goal:** Goal 3
+**Current Step:** Step 1
+**Next Up:** Build the immersive scroll website

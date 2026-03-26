@@ -6,10 +6,10 @@
 
 ## Current Position
 
-**Current goal:** Every letter has a piece of sacred artwork ready to display
-**Current step:** Image generation
-**Current task:** Next task in Step 2
-**Position:** Goal 2, Step 2
+**Current goal:** Readers experience the full story as an immersive, cinematic scroll
+**Current step:** Next step in Goal 3
+**Current task:** First task in Goal 3
+**Position:** Goal 3, Step 1
 
 ## Progress
 
@@ -27,11 +27,15 @@
   - [x] Write Noah's introduction and epilogue
   - [x] Final consistency and quality pass — approved by Noah
 
-### Goal 2: Every letter has a piece of sacred artwork ready to display
+### Goal 2: Every letter has a piece of sacred artwork ready to display — COMPLETE
 - Step 1: Art direction — complete (2/2 tasks done)
   - [x] Style consistency document (reviewed and approved)
   - [x] Per-letter image prompts (9 prompts, reviewed and approved)
-- Step 2: Image generation — not started
+- Step 2: Image generation — complete (4/4 tasks done)
+  - [x] Letters 1-3 generated and curated
+  - [x] Letters 4-6 generated and curated
+  - [x] Letters 7-9 generated and curated
+  - [x] Side-by-side visual cohesion review — approved by Noah
 
 ## Recent Activity
 

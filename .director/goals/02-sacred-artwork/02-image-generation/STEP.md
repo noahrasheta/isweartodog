@@ -6,10 +6,10 @@ Nine approved AI artwork pieces saved in the project, ready for integration. Eac
 
 ## Tasks
 
-- [ ] Task 1: Generate and curate artwork for Letters 1-3
-- [ ] Task 2: Generate and curate artwork for Letters 4-6
-- [ ] Task 3: Generate and curate artwork for Letters 7-9
-- [ ] Task 4: Final side-by-side review of all 9 pieces for visual cohesion
+- [x] Task 1: Generate and curate artwork for Letters 1-3 -- DONE
+- [x] Task 2: Generate and curate artwork for Letters 4-6 -- DONE
+- [x] Task 3: Generate and curate artwork for Letters 7-9 -- DONE
+- [x] Task 4: Final side-by-side review of all 9 pieces for visual cohesion -- DONE
 
 ## Needs First
 
