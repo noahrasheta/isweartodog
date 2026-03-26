@@ -224,13 +224,21 @@ Minimal. The experience speaks for itself.
 - Everything: pinned scenes, parallax layers, particle drift, geometric patterns, threshold transition, full atmosphere density.
 
 ### New Dependencies
-- `gsap` + `@gsap/react` (ScrollTrigger plugin): ~25kb gzipped total.
+- `gsap` + `@gsap/react` (ScrollTrigger plugin): ~25kb gzipped total. Free tier only; no ScrollSmoother or other premium plugins.
 - No Lenis, no Three.js, no canvas particle systems.
+
+### Responsive Breakpoint
+- **Desktop full experience** (Tier 4): >= 1024px (`lg` breakpoint). Pinned scenes, parallax layers, particles, full atmosphere.
+- **Mobile simplified** (Tier 3): < 1024px. No pinning, single-layer artwork, reduced atmosphere.
+- A single breakpoint keeps the logic simple. Tablet-landscape gets the desktop experience; tablet-portrait and phones get the mobile path.
 
 ### Artwork Production Requirement
 - Each of 9 artworks separated into 2-3 depth layers (PNGs with transparency).
 - One-time task done outside the codebase (AI tools, Photoshop, or manual masking).
 - Desktop uses layered versions; mobile uses existing single images.
+- **Asset location**: `artwork/layers/letter-{01-09}/` with files named `bg.png`, `mid.png`, `fg.png`.
+- **Dimensions**: match the original artwork resolution. Transparency where layers are cut.
+- **Blocking dependency**: parallax scenes cannot be built until layers are produced. Plan should sequence this first.
 
 ### File Structure
 
