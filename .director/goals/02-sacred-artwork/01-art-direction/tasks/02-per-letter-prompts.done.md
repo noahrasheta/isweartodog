@@ -20,7 +20,7 @@ Nine detailed prompts, each requiring close reading of its letter and careful pr
 - [x] Each prompt specifies: scene, art style, character portrayal, mood, palette, painter reference
 - [x] All prompts inherit the shared negative prompt and technical specs
 - [x] Prompts are formatted ready for Replicate (copy-paste ready)
-- [ ] Noah has reviewed prompts against the letters they illustrate
+- [x] Noah has reviewed prompts against the letters they illustrate
 - [x] Curation checklist created (what to look for when evaluating generated candidates)
 
 ## Needs First

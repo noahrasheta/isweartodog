@@ -7,9 +7,9 @@
 ## Current Position
 
 **Current goal:** Every letter has a piece of sacred artwork ready to display
-**Current step:** Art direction
-**Current task:** Per-letter image prompts (awaiting Noah review)
-**Position:** Goal 2, Step 1, Task 2
+**Current step:** Image generation
+**Current task:** Next task in Step 2
+**Position:** Goal 2, Step 2
 
 ## Progress
 
@@ -28,7 +28,9 @@
   - [x] Final consistency and quality pass — approved by Noah
 
 ### Goal 2: Every letter has a piece of sacred artwork ready to display
-- Step 1: Art direction — not started
+- Step 1: Art direction — complete (2/2 tasks done)
+  - [x] Style consistency document (reviewed and approved)
+  - [x] Per-letter image prompts (9 prompts, reviewed and approved)
 - Step 2: Image generation — not started
 
 ## Recent Activity
