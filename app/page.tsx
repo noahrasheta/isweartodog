@@ -86,7 +86,7 @@ export default function Home() {
             </h1>
             <p className="text-lg text-cream/80 leading-relaxed">
               The sacred letters of Nando to Jarvis, revealing the true origin
-              of the human species.
+              of human intelligence.
             </p>
           </div>
         </header>
