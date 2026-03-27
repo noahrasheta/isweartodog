@@ -23,7 +23,7 @@ export default function ParchmentSurface({
       </header>
 
       <article>
-        <div className="prose prose-lg prose-stone prose-headings:font-display prose-headings:text-parchment-text prose-p:text-parchment-text prose-p:leading-relaxed prose-a:text-parchment-text prose-a:underline prose-strong:text-parchment-text prose-blockquote:border-parchment-muted prose-blockquote:text-parchment-text/80">
+        <div className="prose prose-lg max-w-none prose-stone prose-headings:font-display prose-headings:text-parchment-text prose-p:text-parchment-text prose-p:leading-relaxed prose-a:text-parchment-text prose-a:underline prose-strong:text-parchment-text prose-blockquote:border-parchment-muted prose-blockquote:text-parchment-text/80">
           {children}
         </div>
       </article>
