@@ -2,7 +2,7 @@
 
 **[isweartodog.com](https://isweartodog.com)**
 
-A cinematic storytelling website presenting nine letters from a five-pound Maltese named Nando to his nephew Jarvis, revealing the true origin of the human species.
+A cinematic storytelling website presenting nine letters from a five-pound Maltese named Nando to his friend Jarvis, revealing the true origin of human intelligence.
 
 Part satirical origin mythology, part philosophical thought experiment, part love letter to the bond between dogs and humans. The narrative builds through humor and world-building and arrives somewhere unexpected.
 
@@ -24,8 +24,8 @@ The site is designed to be read in one sitting. Each letter is paired with AI-ge
 
 This project was built as a collaboration between human creative direction and AI tools:
 
-- **Writing**: The letters were produced through a specialized AI editorial pipeline (creative writer, voice editor, flow editor, consistency checker, copy editor) under Noah's direction
-- **Artwork**: AI-generated sacred and mythological illustrations, each matching the historical art period referenced in its letter
+- **Writing**: The letters were produced through Noah's audio recordings and transcribed by a specialized AI-Augmented editorial pipeline (creative writer, voice editor, flow editor, consistency checker, copy editor) under Noah's direction
+- **Artwork**: AI-generated sacred and mythological illustrations, each matching real historical art periods
 - **Design and code**: Brainstormed, planned, and implemented with Claude Code
 
 The public codebase is part of the artistic statement: showing what becomes possible when AI tools meet creative vision.
