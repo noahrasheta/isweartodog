@@ -32,7 +32,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "I Swear to Dog",
   description:
-    "The sacred letters of Nando to Jarvis, revealing the true origin of the human species.",
+    "The sacred letters of Nando to Jarvis, revealing the true origin of human intelligence.",
   metadataBase: new URL(siteUrl),
   alternates: {
     canonical: "/",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "I Swear to Dog",
     description:
-      "The sacred letters of Nando to Jarvis, revealing the true origin of the human species.",
+      "The sacred letters of Nando to Jarvis, revealing the true origin of human intelligence.",
     url: siteUrl,
     siteName: "I Swear to Dog",
     locale: "en_US",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "I Swear to Dog",
     description:
-      "The sacred letters of Nando to Jarvis, revealing the true origin of the human species.",
+      "The sacred letters of Nando to Jarvis, revealing the true origin of human intelligence.",
   },
   robots: {
     index: true,
