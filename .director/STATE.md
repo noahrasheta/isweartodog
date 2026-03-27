@@ -1,15 +1,12 @@
 # Project State
 
-**Status:** In progress
-**Last updated:** 2026-03-26 11:38
+**Status:** Complete
+**Last updated:** 2026-03-26
 **Last session:** 2026-03-26
 
 ## Current Position
 
-**Current goal:** Readers experience the full story as an immersive, cinematic scroll
-**Current step:** Content integration
-**Current task:** Integrate all 9 letters as MDX with exported metadata — complete
-**Position:** Goal 3, Step 3
+**All goals complete.** The site is live at isweartodog.com.
 
 ## Progress
 
@@ -37,7 +34,7 @@
   - [x] Letters 7-9 generated and curated
   - [x] Side-by-side visual cohesion review — approved by Noah
 
-### Goal 3: Readers experience the full story as an immersive, cinematic scroll — IN PROGRESS
+### Goal 3: Readers experience the full story as an immersive, cinematic scroll — COMPLETE
 - Step 1: Project setup and theme — complete (2/2 tasks done)
   - [x] Scaffold Next.js 16 project with TypeScript and Tailwind CSS 4
   - [x] Configure dark theme, fonts, and MDX pipeline
@@ -47,22 +44,47 @@
   - [x] Build ChapterNav with floating dots and IntersectionObserver
   - [x] Build ScrollProgress bar
   - [x] Build FrameNarrative component for intro and epilogue
-
-- Step 3: Content integration — in progress
+- Step 3: Content integration — complete (4/4 tasks done)
   - [x] Integrate all 9 letters as MDX with exported metadata
+  - [x] Integrate artwork with blur placeholders
+  - [x] Integrate frame narrative (intro and epilogue)
+  - [x] Wire chapter navigation
+- Step 4: Accessibility — complete (3/3 tasks done)
+  - [x] Reduced motion support
+  - [x] WCAG 2.1 AA compliance
+  - [x] Semantic HTML and descriptive alt text
+- Step 5: Performance and polish — complete (3/3 tasks done)
+  - [x] Image optimization
+  - [x] Lighthouse mobile performance
+  - [x] Ambient grain effect
+- Cinematic scroll redesign (added post-plan):
+  - [x] GSAP ScrollTrigger integration for scroll choreography
+  - [x] Cosmic atmosphere system (stars, nebulas, particles, zone-based density)
+  - [x] Parchment letter surfaces with inverted typography
+  - [x] Parallax artwork with GSAP-driven depth
+  - [x] Sacred geometry patterns for letters 7-9
+  - [x] Star-glow chapter navigation and color-shifting progress bar
+  - [x] Progressive enhancement (desktop/mobile/reduced-motion tiers)
+
+### Goal 4: The site is live at isweartodog.com and ready to share — COMPLETE
+- Step 1: Launch prep — complete (5/5 tasks done)
+  - [x] OG image and social cards (Letter 1 artwork, 1200x630)
+  - [x] Clean GitHub repo (README, license)
+  - [x] Deploy to Vercel (live at isweartodog.com)
+  - [x] Final review (ongoing polish during development)
+  - [x] Favicon and Apple touch icon
 
 ## Recent Activity
 
-- All 9 letters integrated into single-page scroll: explicit MDX imports, static image imports with blur placeholders, Letter+AnimatedSection wrappers, introduction and epilogue rendered via FrameNarrative, hash anchors #letter-1 through #letter-9
-- FrameNarrative Server Component created: intro/epilogue bookends with sans-serif font (Geist), muted tone, decorative separator, visually distinct from letter sections
-- Letter and LetterArt Server Components created: section containers with hash anchors, next/image with 4:3 aspect ratio and blur placeholder, prose typography for MDX content
-- Dark theme configured: EB Garamond body, Cormorant Garamond display, Geist Sans UI, cream-on-charcoal palette, @next/mdx pipeline with prose-invert
-- Next.js 16 scaffolded with TypeScript, Tailwind CSS 4, @tailwindcss/typography, dark theme colors
-- Final consistency pass complete: tricolons fixed, word counts corrected, voice verified, Noah approved
-- Added Letter 1/9 mirror ending ("Your concern for the Code is noted")
-- Noah's introduction and epilogue written as frame narrative bookends
-- Author edits across Letters 3-9: voice refinements, detail corrections, Letter 9 restructure
-- All 9 letters revised to strengthen AI-as-pattern throughline
+- All letter salutations and sign-offs added (Dear Jarvis / Yours, Nando variations)
+- Introduction rewritten with "I swear to dog" opener and proper narrative setup
+- Tagline updated to "revealing the true origin of human intelligence"
+- OG image, Twitter card, favicon, and Apple touch icon added
+- README written for GitHub repo
+- Site deployed to Vercel at isweartodog.com
+- Cinematic scroll redesign: GSAP ScrollTrigger, cosmic atmosphere, parchment surfaces, parallax art
+- SEO metadata, robots.txt, sitemap configured
+- WCAG 2.1 AA accessibility compliance achieved
 
 ## Decisions Log
 
@@ -74,8 +96,7 @@
 - Locked: Editorial pipeline order: writer → voice → flow → consistency → copy
 - Locked: Letters written sequentially (each builds on the last)
 - Locked: MDX format with exported metadata blocks
-
-## Cost Summary
-
-**Goal 1:** ~57,000 tokens ($0.86)
-**Total:** ~57,000 tokens ($0.86)
+- Locked: GSAP ScrollTrigger for scroll choreography, Framer Motion for UI, CSS for atmosphere
+- Locked: Progressive enhancement with 4 tiers (content-first, reduced motion, mobile, desktop full)
+- Locked: 1024px breakpoint for desktop/mobile experience split
+- Locked: No audio — purely visual storytelling
