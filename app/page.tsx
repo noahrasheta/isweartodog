@@ -4,7 +4,6 @@ import ChapterNav from "@/components/ChapterNav";
 import ScrollProgress from "@/components/ScrollProgress";
 import FrameNarrative from "@/components/FrameNarrative";
 import CosmicAtmosphere from "@/components/CosmicAtmosphere";
-import ThresholdTransition from "@/components/ThresholdTransition";
 import GeometricPatterns from "@/components/GeometricPatterns";
 
 import Introduction from "@/content/letters/introduction.mdx";
@@ -98,9 +97,6 @@ export default function Home() {
           <Introduction components={frameMdxComponents} />
         </FrameNarrative>
       </AnimatedSection>
-
-      {/* Threshold: the cosmos opens */}
-      <ThresholdTransition />
 
       {/* Zones 2-4: Letters with escalating atmosphere */}
       {letters.map(({ Content, metadata, art, alt }, index) => (
