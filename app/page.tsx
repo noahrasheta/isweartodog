@@ -80,7 +80,7 @@ export default function Home() {
       <CosmicAtmosphere />
 
       <AnimatedSection>
-        <header className="flex items-center justify-center py-24">
+        <header className="flex items-center justify-center py-16 pb-8">
           <div className="relative z-10 max-w-2xl px-6 text-center">
             <h1 className="font-display text-4xl font-semibold text-gold mb-6">
               I Swear to Dog
