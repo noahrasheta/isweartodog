@@ -49,7 +49,7 @@ export default function ThresholdTransition() {
   return (
     <div
       ref={containerRef}
-      className="relative h-[20vh] md:h-[30vh]"
+      className="relative h-[8vh] md:h-[12vh]"
       aria-hidden="true"
     >
       <div className="threshold-vignette absolute inset-0 opacity-0"
